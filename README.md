@@ -1,1 +1,1 @@
-# weather-forecasting-group
+# Weather Forecasting Group
